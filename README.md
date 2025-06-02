@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sandile Mkhwanazi
+- 👋 Hi, I am Sandile Mkhwanazi
 - 👀 I’m interested in programming 
 - 🌱 I’m currently studying computer science final year
 - 💞️ I’m looking to collaborate on any project ventures that will broaden my knowledge in programming and experience.
