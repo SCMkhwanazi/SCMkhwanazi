@@ -1,6 +1,5 @@
 - 👋 Hi, I am Sandile Mkhwanazi
 - 👀 I’m interested in programming 
-- 🌱 I’m currently studying computer science final year
 - 💞️ I’m looking to collaborate on any project ventures that will broaden my knowledge in programming and experience.
 - 📫 How to reach me Sandilec930@gmail.com
 - ⚡ Fun fact: Honey dont spoil just like everyones interest on technology.
